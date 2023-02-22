@@ -6,7 +6,5 @@ npx hardhat node --fork https://mainnet.infura.io/v3/<API_KEY>
 npx hardhat test --network localhost
 ```
 ## Convex Flow Chart
-* Deposit
-[Imgur](https://imgur.com/p3qdFnV)
-* Withdraw
-![](https://imgur.com/NyfdhKr)
+![](https://i.imgur.com/p3qdFnV.jpg)
+![](https://i.imgur.com/NyfdhKr.jpg)
